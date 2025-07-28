@@ -1,0 +1,1 @@
+Efficient storage solution for billing records in Azure—minimizing costs using Cosmos DB (hot store) and Blob Storage (cold store/archive), with transparent retrieval and no API changes.
